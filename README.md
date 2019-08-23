@@ -4,7 +4,8 @@
 
 <p>Réalisation d'un jeux en JavaScript, partant du célébre tir au canard " Duck Hunt "</p>
 --- 
-# Les langages et outils utilisés 
+
+## Les langages et outils utilisés 
 
 * HTML5
 * CSS3
@@ -13,13 +14,13 @@
 * Socket IO
 ---
 
-# Personnes ayant travaillé sur le projet
+## Personnes ayant travaillé sur le projet
 
-* [Cléo Buck]
-* [Arianne Flamme]
-* [Antoine Notte]
-* [Jean David Wuilquot]
-* [Christophe Dejaiffe]
+* Cléo Buck
+* Arianne Flamme
+* Antoine Notte
+* Jean David Wuilquot
+* Christophe Dejaiffe
 
 <p>Alors en formation chez BeCode.</p>
 
