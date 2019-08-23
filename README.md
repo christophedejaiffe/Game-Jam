@@ -421,3 +421,11 @@ export default GameScene
 ```
 </details>
 
+## Le résultat en image :
+
+<img src="Exemple01.jpg" width="500"/>
+
+<img src="Exemple02.jpg" width="500"/>
+
+<img src="Exemple03.jpg" width="500"/>
+
