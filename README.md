@@ -3,6 +3,7 @@
 ## Création d'un jeux en Javascript
 
 <p>Réalisation d'un jeux en JavaScript, partant du célébre tir au canard " Duck Hunt "</p>
+
 --- 
 
 ## Les langages et outils utilisés 
@@ -43,7 +44,24 @@ Il s'agit d'un travail de groupe réalisé dans le cadre de la formation BeCode.
 <summary>Fichier HTML</summary>
 
 ```markdown
-Placer l’ exemple HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="./src/assets/css/style.css">
+    
+    <title>Document</title>
+</head>
+<body id="body">
+    <div id="popup" class="unvisible">
+       
+    </div>
+    <script src="src/index.js"></script>
+</body>
+</html>
 ```
 </details>
 
